@@ -2,7 +2,7 @@
 This a view that waiting for network connection to resolve with cool animation .
 This is an implementation of [this in dribbble](https://dribbble.com/shots/2341287-Search)
 
-![screenshot](github.com/liangpengfei/SearchView/raw/master/screenshots/screenshot.gif)
+![screenshot](http://ww4.sinaimg.cn/large/005u6Kr2gw1exvsz6dtvcg30eg0lajs5.gif)
 
 #Usage
 
