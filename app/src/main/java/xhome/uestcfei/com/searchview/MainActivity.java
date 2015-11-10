@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 
-public class MainActivity extends AppCompatActivity implements  {
+public class MainActivity extends AppCompatActivity  {
 
     private static final String TAG = "MainActivity";
     private SearchView searchView;
