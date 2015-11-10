@@ -43,8 +43,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/xhome/uestcfei/com/searchview/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77008927">
-              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.13392857">
+              <caret line="7" column="62" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -1604,9 +1604,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/xhome/uestcfei/com/searchview/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/xhome/uestcfei/com/searchview/SearchView.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/xhome/uestcfei/com/searchview/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -1949,7 +1949,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="7" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Documentation" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32863188" sideWeight="0.5028612" order="14" side_tool="true" content_ui="tabs" x="100" y="123" width="1240" height="625" />
@@ -2165,8 +2165,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/xhome/uestcfei/com/searchview/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77008927">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.13392857">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="62" />
           <folding />
         </state>
       </provider>

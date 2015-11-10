@@ -1,8 +1,10 @@
 # SearchView
 This a view that waiting for network connection to resolve with cool animation .
-This is an implementation of [this in dribbble](https://dribbble.com/shots/2341287-Search)
+I was inspired by [this in dribbble](https://dribbble.com/shots/2341287-Search)
 
-![screenshot](http://ww4.sinaimg.cn/large/005u6Kr2gw1exvsz6dtvcg30eg0lajs5.gif)
+for the view has not implements all its animation , so I am glad for other people to help me to improve this view,this is so cool!
+
+![screenshot](http://ww2.sinaimg.cn/large/005u6Kr2gw1exvt1c2wg7g30m80goaao.gif)
 
 #Usage
 
@@ -26,3 +28,8 @@ JAVA
      	     Log.d(TAG, "start");
      		 searchView.startSearch();
     	 }
+    	 
+    	 
+    	 
+#License
+no license ,share as you like it !
